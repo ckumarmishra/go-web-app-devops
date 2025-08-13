@@ -8,7 +8,7 @@ image:
   repository: chanmish/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "16935854120"
+  tag: "16936727957"
 
 ingress:
   enabled: false
